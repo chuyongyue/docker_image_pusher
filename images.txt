@@ -29,3 +29,4 @@ docker.io/calico/pod2daemon-flexvol:v3.28.4
 docker.io/calico/csi:v3.28.4
 docker.io/calico/node-driver-registrar:v3.28.4
 docker.io/busybox:latest
+nvcr.io/nvidia/k8s-device-plugin:v0.17.1
