@@ -16,12 +16,12 @@ k8s.gcr.io/nfd/node-feature-discovery:v0.11.0
 registry.k8s.io/nfd/node-feature-discovery:v0.15.3
 docker.io/heartexlabs/label-studio:latest
 quay.io/tigera/operator:v1.34.10
-docker.io/calico/typha:v3.28.5
-docker.io/calico/ctl:v3.28.5
-docker.io/calico/node:v3.28.5
-docker.io/calico/cni:v3.28.5
-docker.io/calico/apiserver:v3.28.5
-docker.io/calico/kube-controllers:v3.28.5
+docker.io/calico/typha:v3.28.4
+docker.io/calico/ctl:v3.28.4
+docker.io/calico/node:v3.28.4
+docker.io/calico/cni:v3.28.4
+docker.io/calico/apiserver:v3.28.4
+docker.io/calico/kube-controllers:v3.28.4
 
 docker.io/calico/dikastes:v3.28.5
 docker.io/calico/pod2daemon-flexvol:v3.28.5
