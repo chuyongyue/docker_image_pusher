@@ -22,6 +22,7 @@ docker.io/calico/node:v3.28.5
 docker.io/calico/cni:v3.28.5
 docker.io/calico/apiserver:v3.28.5
 docker.io/calico/kube-controllers:v3.28.5
+
 docker.io/calico/dikastes:v3.28.5
 docker.io/calico/pod2daemon-flexvol:v3.28.5
 docker.io/calico/csi:v3.28.5
