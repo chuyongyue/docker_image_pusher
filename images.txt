@@ -30,3 +30,5 @@ docker.io/calico/csi:v3.28.4
 docker.io/calico/node-driver-registrar:v3.28.4
 docker.io/busybox:latest
 nvcr.io/nvidia/k8s-device-plugin:v0.17.1
+
+nvcr.io/nvidia/k8s/dcgm-exporter:3.1.7-3.1.4-ubuntu20.04
