@@ -39,3 +39,5 @@ docker.io/webasepro/webase-front:v1.5.5
 docker.io/webasepro/webase-node-mgr:v1.5.5
 docker.io/webasepro/webase-sign:v1.5.5
 docker.io/webasepro/webase-web:v1.5.5
+docker.io/apache/kafka:4.2.0
+docker.elastic.co/beats/filebeat:9.4.0
