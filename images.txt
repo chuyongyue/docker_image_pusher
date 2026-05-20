@@ -5,40 +5,11 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # nfs csi 4.11.0
-registry.k8s.io/sig-storage/csi-provisioner:v5.2.0
-registry.k8s.io/sig-storage/csi-resizer:v1.13.1
-registry.k8s.io/sig-storage/csi-snapshotter:v8.2.0
-registry.k8s.io/sig-storage/livenessprobe:v2.15.0
-registry.k8s.io/sig-storage/nfsplugin:v4.11.0
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
-registry.k8s.io/sig-storage/snapshot-controller:v8.2.0
-k8s.gcr.io/nfd/node-feature-discovery:v0.11.0 
-registry.k8s.io/nfd/node-feature-discovery:v0.15.3
-docker.io/heartexlabs/label-studio:latest
-quay.io/tigera/operator:v1.34.10
-docker.io/calico/typha:v3.28.4
-docker.io/calico/ctl:v3.28.4
-docker.io/calico/node:v3.28.4
-docker.io/calico/cni:v3.28.4
-docker.io/calico/apiserver:v3.28.4
-docker.io/calico/kube-controllers:v3.28.4
 
-
-docker.io/calico/dikastes:v3.28.4
-docker.io/calico/pod2daemon-flexvol:v3.28.4
-docker.io/calico/csi:v3.28.4
-docker.io/calico/node-driver-registrar:v3.28.4
 docker.io/busybox:latest
-nvcr.io/nvidia/k8s-device-plugin:v0.17.1
 
-nvcr.io/nvidia/k8s/dcgm-exporter:3.1.7-3.1.4-ubuntu20.04
 docker.io/nacos/nacos-server:v3.1.0
 docker.io/rabbitmq:3.8.9
-docker.io/fiscoorg/fiscobcos:v2.11.0
-docker.io/webasepro/webase-front:v1.5.5
-docker.io/webasepro/webase-node-mgr:v1.5.5
-docker.io/webasepro/webase-sign:v1.5.5
-docker.io/webasepro/webase-web:v1.5.5
 docker.io/apache/kafka:4.2.0
 docker.elastic.co/beats/filebeat:9.4.0
 docker.io/megaxcn/predixy:latest
