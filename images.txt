@@ -14,3 +14,4 @@ docker.io/apache/kafka:4.2.0
 docker.elastic.co/beats/filebeat:9.4.0
 docker.io/megaxcn/predixy:latest
 --platform=linux/arm64 docker.io/frolvlad/alpine-glibc:alpine-3_glibc-2.41
+docker.io/blacklabelops/logrotate:1.3
