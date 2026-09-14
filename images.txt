@@ -19,3 +19,5 @@ docker.io/envoyproxy/ratelimit:master
 gcr.io/k8s-staging-gateway-api/echo-basic:v20231214-v1.0.0-140-gf544a46e
 docker.io/envoyproxy/envoy:distroless-dev
 docker.io/envoyproxy/ratelimit:60d8e81b
+docker.io/envoyproxy/ai-gateway-controller:v1.1.0
+docker.io/envoyproxy/ai-gateway-extproc:v1.1.0
