@@ -15,3 +15,4 @@ registry.k8s.io/coredns/coredns:v1.14.2
 registry.k8s.io/pause:3.10.2
 registry.k8s.io/etcd:3.6.8-0
 docker.io/envoyproxy/gateway-dev:latest
+docker.io/envoyproxy/ratelimit:master
